@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../mysql"
+		},
+		{
+			"path": "../php"
+		},
+		{
+			"path": "../php oo"
+		},
+		{
+			"path": "."
+		}
+	]
+}
